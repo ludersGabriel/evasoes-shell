@@ -1,3 +1,5 @@
+# SOBRE
+
 Trabalho feito para matéria de "Programação I" cujo intuito era analisar uma base de dados fornecida e extrair informações utilizando Shell, confome os critérios:
 
 Tema: Taxas e formas de evasão
@@ -23,5 +25,5 @@ O objetivo deste trabalho é fazer um script chamado evasao.sh que:
   - Produza um gráfico (de barras) mostrando, para cada ano, o número de evasões por forma de ingresso
  
  
- COMO RODAR
+# COMO RODAR
    - executar ./evasao.sh. O script instalará gnuplot e extrairá os arquivos necessários para análise. Após o fim da execução, os arquivos de apoio são excluídos e       dois arquivos png são criados conforme os dois últimos itens.
