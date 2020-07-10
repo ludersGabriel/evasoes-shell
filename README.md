@@ -21,3 +21,7 @@ O objetivo deste trabalho é fazer um script chamado evasao.sh que:
   - Produza um gráfico (de linha) com os anos de evasão no eixo x e o número de evasões no eixo y (use o Gnuplot)
 
   - Produza um gráfico (de barras) mostrando, para cada ano, o número de evasões por forma de ingresso
+ 
+ 
+ COMO RODAR
+   - executar ./evasao.sh. O script instalará gnuplot e extrairá os arquivos necessários para análise. Após o fim da execução, os arquivos de apoio são excluídos e       dois arquivos png são criados conforme os dois últimos itens.
