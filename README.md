@@ -6,7 +6,7 @@ Os dados de evasão de estudantes do curso de Bacharelado em Ciência da Computa
 
 O objetivo deste trabalho é fazer um script chamado evasao.sh que:
 
-  1. Leia todos os arquivos do diretório descompactado da extração do arquivo evasao2014-18.tar.gz
+  - 1. Leia todos os arquivos do diretório descompactado da extração do arquivo evasao2014-18.tar.gz
 
   2. Concatene as informações de cada arquivo em um único arquivo
 
